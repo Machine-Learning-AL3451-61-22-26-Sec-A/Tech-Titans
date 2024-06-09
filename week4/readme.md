@@ -65,5 +65,5 @@ This Streamlit web application provides a user-friendly interface for credit car
 
 ## Links:
 - [Streamlit App](https://week4tech.streamlit.app/)
-- [Medium Article](https://medium.com/@chiteshgokul_22aia23/candidate-elimination-algorithm-63edc87f3f68)
+- [Medium Article](https://medium.com/@chiteshgokul_22aia23/implementation-of-naive-bayes-classifier-a-comprehensive-guide-4a5762895722)
 
