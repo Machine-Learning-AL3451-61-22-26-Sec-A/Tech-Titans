@@ -64,6 +64,6 @@ To use the application, follow these steps:
 This Streamlit web application provides a user-friendly interface for credit card fraud detection, allowing users to analyze datasets, train machine learning models, and evaluate model performance.
 
 ## Links:
-- [Streamlit App](https://infosquad.streamlit.app/)
-- [Medium Article](https://medium.com/@vikramkaruppannan6807/naive-bayesian-classifier-3dab356a5e58)
+- [Streamlit App]()
+- [Medium Article](https://medium.com/@chiteshgokul_22aia23/candidate-elimination-algorithm-63edc87f3f68)
 
