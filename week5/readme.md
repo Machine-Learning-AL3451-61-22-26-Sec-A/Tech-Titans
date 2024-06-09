@@ -37,6 +37,6 @@ Contributions are welcome! If you have suggestions or find any issues, feel free
 
 
 ## Links:
-- [Streamlit App](https://mlweek5.streamlit.app/)
-- [Medium Article](https://medium.com/@vikramkaruppannan6807/naive-bayesian-classifier-3dab356a5e58)
+- [Streamlit App](https://week5techtitans.streamlit.app/)
+- [Medium Article](https://medium.com/@chiteshgokul_22aia23/leveraging-naive-bayesian-classifier-for-document-classification-6586aec5b9e7)
 
