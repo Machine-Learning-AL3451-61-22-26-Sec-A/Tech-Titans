@@ -53,7 +53,7 @@ class NeuralNetwork:
         return self.predicted_output
 
 def main():
-    st.title('Backpropagation Neural Network with Streamlit')
+    st.title('22AIA-TECH TITANS-Backpropagation Neural Network with Streamlit')
     
     # Sample dataset
     X = np.array([[0, 0], [0, 1], [1, 0], [1, 1]])
