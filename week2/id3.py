@@ -102,7 +102,7 @@ def buildTree(data, rows, columns):
     return root
 
 def main():
-    st.title("Decision Tree Classifier")
+    st.title("22AIA-TECH TITANS-Decision Tree Classifier")
 
     # Upload CSV file
     uploaded_file = st.file_uploader("trainingdata.csv", type=['csv'])
